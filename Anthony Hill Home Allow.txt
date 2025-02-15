@@ -16,3 +16,5 @@
 @@||activity.windows.com^
 @@||presence.teams.live.com^
 @@||ic3.events.data.microsoft.com^
+@@||*.nflxvideo.net
+@@||*.netflix.com

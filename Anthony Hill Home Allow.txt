@@ -11,6 +11,8 @@
 @@||xp.apple.com^
 @@||metrics.icloud.com
 @@||api.us-west-2.aiv-delivery.net^$important
+! ABC
+collector.abc.net.au
 ! Github
 @@||github.com^$important
 @@||github.io^$important
